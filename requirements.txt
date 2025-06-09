@@ -1,0 +1,6 @@
+nltk
+sumy
+transformers
+rouge-score
+pandas
+scikit-learn
